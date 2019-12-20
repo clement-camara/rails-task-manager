@@ -1,5 +1,7 @@
 {
   "name": "rails-task-manager",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "serialize-javascript": "^2.1.2"
+  }
 }
